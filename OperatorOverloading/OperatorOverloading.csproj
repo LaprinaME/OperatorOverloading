@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Program.cs" Link="Program.cs" />
+    <Compile Include="D:\RationalNumbers.cs" Link="RationalNumbers.cs" />
+  </ItemGroup>
+
+</Project>
